@@ -11,7 +11,7 @@ const String rpHomeScreen = "/";
 const String basePath = "https://api.themoviedb.org/3";
 
 /// The Movie Database API key
-const String apiKey = "978eec01765e57ca76a06d2042e53b25";
+const String apiKey = "YOUR_API_KEY";
 
 /// Path for fetch trending movies List
 const String trendingMoviesPath = "trending/movie/week";
