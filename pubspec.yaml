@@ -1,0 +1,31 @@
+name: cinema_pool
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  chopper:
+  logging:
+  json_annotation:
+  google_fonts: 2.2.0
+  provider:
+  equatable:
+  carousel_slider: 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+  chopper_generator:
+  build_runner:
+  json_serializable:
+
+flutter:
+  uses-material-design: true
